@@ -1,0 +1,1001 @@
+ProductID,ProductName,Category,Price,Stock,Rating
+P0001,Special,Home Appliances,442.86,244,1.1
+P0002,Clear,Toys,581.58,381,5.0
+P0003,According,Books,234.38,257,1.0
+P0004,Everyone,Books,267.52,64,1.9
+P0005,So,Toys,234.86,162,1.2
+P0006,Difference,Toys,56.07,407,2.5
+P0007,Threat,Toys,100.04,355,1.9
+P0008,Drop,Toys,295.27,279,3.9
+P0009,Each,Home Appliances,916.16,415,2.3
+P0010,Likely,Home Appliances,599.83,463,3.2
+P0011,Or,Electronics,945.44,331,4.6
+P0012,True,Sportswear,312.86,416,2.6
+P0013,Discussion,Toys,32.24,7,4.9
+P0014,Trial,Home Appliances,948.39,150,1.4
+P0015,Last,Electronics,194.98,302,5.0
+P0016,Beautiful,Home Appliances,738.34,336,1.9
+P0017,Stay,Electronics,624.38,70,3.7
+P0018,Study,Sportswear,855.58,400,1.5
+P0019,Kind,Electronics,529.88,138,4.8
+P0020,Result,Toys,496.0,433,1.5
+P0021,Expect,Sportswear,310.36,218,4.6
+P0022,Operation,Toys,816.08,475,3.4
+P0023,General,Toys,221.91,149,4.1
+P0024,Color,Sportswear,122.46,85,1.9
+P0025,Data,Sportswear,600.54,378,1.0
+P0026,Truth,Toys,372.16,162,4.0
+P0027,Bag,Electronics,214.82,391,4.4
+P0028,Remain,Electronics,861.71,108,4.9
+P0029,Growth,Home Appliances,886.41,52,3.1
+P0030,Among,Toys,90.7,320,3.7
+P0031,Bill,Toys,788.04,141,2.5
+P0032,Customer,Books,306.12,34,3.2
+P0033,How,Electronics,867.74,265,2.0
+P0034,Break,Books,966.85,265,2.5
+P0035,Red,Electronics,611.13,229,4.1
+P0036,Citizen,Sportswear,743.05,14,3.6
+P0037,Reason,Sportswear,898.55,479,1.1
+P0038,Language,Home Appliances,939.36,68,2.1
+P0039,Spend,Electronics,92.33,56,1.5
+P0040,Employee,Books,965.72,338,3.3
+P0041,Style,Toys,528.54,146,1.0
+P0042,Learn,Electronics,558.45,399,3.8
+P0043,Dream,Electronics,813.61,433,2.7
+P0044,Participant,Sportswear,273.97,99,4.9
+P0045,Raise,Home Appliances,508.93,346,1.5
+P0046,Magazine,Electronics,610.56,350,4.8
+P0047,Recent,Electronics,739.56,187,2.3
+P0048,Account,Sportswear,638.4,151,2.3
+P0049,Head,Sportswear,86.68,172,2.2
+P0050,Beautiful,Home Appliances,995.32,143,1.6
+P0051,Firm,Toys,124.14,148,1.9
+P0052,Raise,Home Appliances,356.12,28,2.8
+P0053,Present,Books,421.42,201,4.7
+P0054,Quality,Sportswear,717.64,35,5.0
+P0055,Camera,Books,88.04,280,4.4
+P0056,Drive,Home Appliances,400.44,310,3.0
+P0057,Away,Books,41.15,475,2.0
+P0058,Name,Books,996.61,346,4.5
+P0059,Baby,Home Appliances,730.95,116,2.7
+P0060,Call,Toys,621.68,447,2.8
+P0061,Book,Toys,216.32,245,4.0
+P0062,Describe,Books,700.57,27,2.9
+P0063,Control,Sportswear,529.35,144,1.7
+P0064,Reveal,Books,857.19,144,2.4
+P0065,For,Electronics,916.45,102,4.1
+P0066,Student,Home Appliances,940.53,187,4.3
+P0067,Detail,Toys,411.59,263,2.3
+P0068,Much,Home Appliances,751.55,330,3.5
+P0069,Recognize,Toys,854.98,408,2.9
+P0070,Success,Electronics,593.02,237,2.4
+P0071,Others,Sportswear,707.47,284,3.5
+P0072,Cost,Sportswear,167.56,25,2.3
+P0073,Campaign,Toys,326.05,231,1.3
+P0074,Beyond,Toys,523.67,311,3.8
+P0075,Least,Sportswear,970.06,492,3.7
+P0076,Discuss,Home Appliances,944.11,134,2.2
+P0077,Country,Home Appliances,992.07,102,4.6
+P0078,Main,Books,527.0,421,3.8
+P0079,Summer,Electronics,495.34,298,3.9
+P0080,Accept,Toys,587.62,43,3.6
+P0081,Store,Sportswear,849.25,237,2.5
+P0082,I,Toys,502.29,125,1.5
+P0083,Line,Electronics,387.94,451,2.2
+P0084,Bar,Books,790.77,299,2.8
+P0085,History,Toys,293.55,484,2.5
+P0086,Summer,Home Appliances,38.27,352,1.8
+P0087,Stock,Electronics,369.16,393,1.7
+P0088,Professional,Toys,445.64,51,4.4
+P0089,Building,Sportswear,458.75,489,4.4
+P0090,Ahead,Home Appliances,297.85,92,1.3
+P0091,Main,Electronics,896.92,224,4.6
+P0092,Down,Home Appliances,744.66,260,2.4
+P0093,Early,Sportswear,439.63,326,4.4
+P0094,Impact,Toys,780.51,488,1.0
+P0095,Risk,Sportswear,447.88,133,1.3
+P0096,Somebody,Sportswear,356.43,357,4.3
+P0097,Its,Sportswear,291.61,368,1.8
+P0098,State,Toys,76.44,161,3.7
+P0099,This,Books,281.12,231,4.8
+P0100,Economy,Electronics,971.81,12,2.4
+P0101,Become,Books,177.65,41,3.8
+P0102,Policy,Electronics,882.95,358,4.2
+P0103,Interview,Home Appliances,278.53,136,1.5
+P0104,Movie,Toys,346.84,300,3.7
+P0105,Brother,Sportswear,955.19,320,2.0
+P0106,Last,Home Appliances,748.99,107,1.6
+P0107,Street,Home Appliances,85.42,123,4.4
+P0108,Religious,Books,148.5,257,2.8
+P0109,Through,Sportswear,671.21,153,4.9
+P0110,Prevent,Electronics,502.79,336,4.5
+P0111,Break,Sportswear,947.02,195,4.7
+P0112,Establish,Toys,432.82,492,4.8
+P0113,Brother,Toys,404.85,500,3.7
+P0114,Realize,Sportswear,285.49,171,2.8
+P0115,Dinner,Electronics,859.69,130,3.4
+P0116,Mean,Sportswear,776.91,281,2.1
+P0117,Over,Home Appliances,647.32,342,4.5
+P0118,Despite,Sportswear,661.7,87,3.8
+P0119,Yard,Electronics,200.9,440,1.9
+P0120,Early,Books,388.37,255,1.7
+P0121,Policy,Home Appliances,213.75,354,1.1
+P0122,Show,Toys,589.17,103,4.2
+P0123,Big,Home Appliances,207.77,218,3.2
+P0124,Actually,Books,501.51,395,4.6
+P0125,Person,Electronics,833.35,10,3.9
+P0126,Drive,Home Appliances,998.05,468,4.6
+P0127,Probably,Toys,935.62,174,4.9
+P0128,Walk,Sportswear,803.81,313,2.3
+P0129,Control,Toys,651.05,470,4.4
+P0130,Fight,Sportswear,43.27,138,1.8
+P0131,Part,Toys,676.04,46,1.8
+P0132,Book,Home Appliances,168.64,127,1.8
+P0133,Apply,Toys,500.74,175,1.9
+P0134,Experience,Sportswear,206.71,17,3.1
+P0135,Rich,Books,480.72,259,3.6
+P0136,Play,Sportswear,682.0,122,4.9
+P0137,I,Home Appliances,35.76,383,5.0
+P0138,Ability,Books,495.88,405,4.1
+P0139,Accept,Sportswear,757.37,434,1.3
+P0140,Prove,Books,466.74,498,1.6
+P0141,Win,Sportswear,890.1,207,2.3
+P0142,Summer,Sportswear,635.29,457,2.6
+P0143,Method,Toys,406.87,272,3.6
+P0144,Exist,Toys,722.6,429,3.1
+P0145,Hold,Books,628.92,329,4.8
+P0146,Above,Toys,116.06,493,4.6
+P0147,North,Electronics,206.06,500,4.7
+P0148,What,Books,110.36,483,4.6
+P0149,Something,Home Appliances,398.27,482,4.1
+P0150,Interest,Sportswear,279.86,11,3.3
+P0151,Something,Books,839.24,447,1.2
+P0152,Notice,Home Appliances,757.93,435,2.5
+P0153,Garden,Sportswear,308.67,5,4.9
+P0154,In,Sportswear,934.92,160,2.8
+P0155,Single,Sportswear,527.28,313,1.8
+P0156,Edge,Home Appliances,182.76,206,4.3
+P0157,Must,Books,457.25,172,2.5
+P0158,Role,Electronics,991.1,390,4.5
+P0159,Not,Sportswear,267.6,117,3.3
+P0160,Relate,Home Appliances,898.38,220,4.3
+P0161,Magazine,Electronics,683.04,211,2.0
+P0162,Art,Home Appliances,550.12,220,1.4
+P0163,Similar,Sportswear,98.57,453,1.8
+P0164,Off,Home Appliances,47.97,454,3.6
+P0165,Rise,Books,110.13,474,1.7
+P0166,Mission,Electronics,758.82,26,1.6
+P0167,Keep,Electronics,464.41,493,2.8
+P0168,Single,Toys,711.13,198,1.8
+P0169,Hope,Home Appliances,578.67,424,4.0
+P0170,Answer,Books,269.46,247,4.5
+P0171,Budget,Sportswear,977.08,399,1.8
+P0172,Option,Books,720.43,499,3.9
+P0173,Than,Books,856.52,423,2.1
+P0174,Can,Books,695.13,432,1.6
+P0175,Eye,Home Appliances,884.53,148,2.3
+P0176,Market,Sportswear,125.44,241,3.5
+P0177,Head,Electronics,447.67,248,4.3
+P0178,Receive,Electronics,421.87,428,2.3
+P0179,Again,Home Appliances,791.38,57,3.4
+P0180,Tough,Books,771.08,456,2.6
+P0181,Baby,Toys,960.45,332,4.5
+P0182,House,Toys,24.07,231,4.3
+P0183,Blood,Sportswear,636.65,356,4.2
+P0184,Score,Sportswear,727.29,122,1.1
+P0185,Coach,Sportswear,39.86,110,1.5
+P0186,Either,Sportswear,727.76,17,2.6
+P0187,Keep,Toys,218.87,409,1.5
+P0188,It,Electronics,359.74,447,1.4
+P0189,Camera,Home Appliances,597.36,157,2.8
+P0190,Accept,Home Appliances,857.33,118,2.2
+P0191,Method,Sportswear,212.71,231,4.4
+P0192,Answer,Books,645.93,124,5.0
+P0193,Be,Home Appliances,804.0,42,2.2
+P0194,Each,Electronics,725.23,219,2.1
+P0195,Lay,Home Appliances,161.55,173,1.1
+P0196,Join,Electronics,20.83,438,4.9
+P0197,Can,Sportswear,876.25,440,2.0
+P0198,Sit,Toys,372.3,410,1.6
+P0199,Can,Toys,908.93,389,3.2
+P0200,Member,Electronics,150.74,390,3.7
+P0201,Note,Sportswear,216.07,128,1.0
+P0202,Artist,Books,123.64,283,2.5
+P0203,Science,Home Appliances,726.36,265,2.6
+P0204,Trouble,Home Appliances,833.47,465,3.5
+P0205,Now,Home Appliances,852.29,348,4.9
+P0206,Imagine,Toys,581.32,99,4.4
+P0207,Power,Books,518.56,114,4.1
+P0208,Color,Toys,107.54,91,1.9
+P0209,Fly,Toys,36.67,335,2.9
+P0210,Institution,Books,404.85,239,1.2
+P0211,Cause,Books,443.26,368,4.0
+P0212,Cost,Toys,347.33,164,1.8
+P0213,Song,Sportswear,161.84,306,3.1
+P0214,Body,Books,801.89,397,4.4
+P0215,Yeah,Electronics,707.18,338,4.3
+P0216,Itself,Books,933.31,224,2.1
+P0217,Prepare,Home Appliances,586.22,307,3.4
+P0218,Force,Electronics,70.65,283,2.5
+P0219,Show,Toys,114.9,319,2.6
+P0220,Performance,Sportswear,86.05,344,2.4
+P0221,For,Electronics,777.91,12,1.0
+P0222,Effort,Toys,569.32,348,4.4
+P0223,Friend,Toys,137.48,413,2.7
+P0224,Successful,Electronics,308.19,471,2.5
+P0225,Eat,Sportswear,939.82,79,1.4
+P0226,Charge,Home Appliances,680.68,466,3.0
+P0227,International,Electronics,948.7,327,1.7
+P0228,Animal,Electronics,344.95,446,1.1
+P0229,Game,Toys,542.18,145,3.9
+P0230,Will,Electronics,272.42,331,4.9
+P0231,Blood,Sportswear,432.26,37,2.7
+P0232,Loss,Toys,586.1,270,3.3
+P0233,Home,Toys,92.07,305,5.0
+P0234,Friend,Home Appliances,358.28,77,1.5
+P0235,National,Toys,99.54,69,3.1
+P0236,Study,Toys,90.75,178,1.4
+P0237,Mind,Books,176.92,294,4.9
+P0238,Appear,Electronics,984.42,20,3.8
+P0239,Seem,Books,997.94,283,2.0
+P0240,Condition,Books,719.13,200,4.4
+P0241,Act,Books,397.97,114,1.0
+P0242,Exist,Home Appliances,773.45,63,3.1
+P0243,Industry,Sportswear,673.55,380,1.2
+P0244,Walk,Electronics,905.77,441,4.9
+P0245,Just,Books,738.02,189,3.0
+P0246,Citizen,Sportswear,680.96,14,4.3
+P0247,Say,Sportswear,83.36,499,4.4
+P0248,Up,Toys,389.14,116,4.4
+P0249,Like,Sportswear,713.32,310,1.7
+P0250,Control,Sportswear,140.58,1,2.1
+P0251,Financial,Toys,270.4,372,2.3
+P0252,Example,Books,106.95,498,2.5
+P0253,Talk,Sportswear,899.01,320,1.7
+P0254,Beautiful,Books,966.89,75,2.6
+P0255,Single,Toys,344.13,191,1.3
+P0256,Per,Home Appliances,217.7,496,1.2
+P0257,Region,Sportswear,313.86,388,2.0
+P0258,About,Toys,937.73,262,1.5
+P0259,Surface,Electronics,552.35,168,2.4
+P0260,Member,Home Appliances,971.22,75,2.2
+P0261,Fire,Electronics,21.6,364,2.8
+P0262,Wonder,Sportswear,695.65,168,3.2
+P0263,Because,Electronics,979.15,82,4.4
+P0264,Reach,Sportswear,449.96,82,4.6
+P0265,Itself,Electronics,319.15,167,2.8
+P0266,Support,Toys,379.27,282,4.7
+P0267,Course,Home Appliances,225.48,131,1.0
+P0268,House,Home Appliances,555.27,200,1.8
+P0269,Along,Home Appliances,361.88,467,3.4
+P0270,Former,Sportswear,252.79,254,1.1
+P0271,Movement,Sportswear,484.64,39,4.7
+P0272,Tonight,Toys,563.53,313,4.9
+P0273,Tree,Sportswear,743.11,483,1.4
+P0274,Let,Home Appliances,451.92,438,2.1
+P0275,Realize,Toys,798.85,437,4.7
+P0276,Piece,Sportswear,171.45,433,4.0
+P0277,Mother,Sportswear,529.99,112,1.3
+P0278,Drop,Toys,217.06,271,3.3
+P0279,Her,Home Appliances,627.19,81,3.3
+P0280,Set,Home Appliances,729.14,341,1.3
+P0281,Evidence,Home Appliances,118.53,205,2.2
+P0282,Beyond,Electronics,440.31,397,4.2
+P0283,Take,Home Appliances,786.09,316,1.6
+P0284,Produce,Books,891.06,207,3.7
+P0285,Note,Books,397.99,143,3.1
+P0286,Character,Home Appliances,942.49,242,2.7
+P0287,Recognize,Home Appliances,762.8,403,2.1
+P0288,Others,Books,928.2,393,4.8
+P0289,Section,Electronics,444.97,110,1.5
+P0290,Knowledge,Books,874.5,450,4.1
+P0291,Campaign,Sportswear,209.59,95,3.2
+P0292,While,Toys,831.37,32,4.0
+P0293,Imagine,Sportswear,429.94,454,4.4
+P0294,Doctor,Books,40.78,440,2.7
+P0295,Visit,Home Appliances,811.42,94,2.0
+P0296,Either,Toys,459.64,201,4.9
+P0297,Chair,Books,409.34,257,3.9
+P0298,East,Electronics,989.34,157,3.7
+P0299,To,Home Appliances,167.08,65,1.3
+P0300,Onto,Toys,955.26,331,4.5
+P0301,Specific,Toys,926.48,221,3.5
+P0302,Ago,Sportswear,977.94,454,4.3
+P0303,Decide,Books,593.24,412,3.4
+P0304,Positive,Books,946.06,323,1.6
+P0305,View,Sportswear,455.07,234,2.6
+P0306,Air,Books,238.17,376,1.0
+P0307,Two,Sportswear,754.09,285,2.2
+P0308,Tough,Home Appliances,521.74,141,2.1
+P0309,Soldier,Home Appliances,819.18,69,4.3
+P0310,Fire,Toys,840.1,352,1.2
+P0311,Close,Books,230.02,234,2.2
+P0312,Different,Toys,55.78,159,1.3
+P0313,Peace,Home Appliances,792.53,460,4.3
+P0314,Practice,Toys,597.77,146,2.6
+P0315,Good,Books,855.11,237,1.4
+P0316,Mouth,Books,98.29,14,4.9
+P0317,Entire,Sportswear,125.72,90,4.8
+P0318,Candidate,Electronics,391.81,342,3.8
+P0319,Never,Electronics,478.29,76,1.4
+P0320,Thank,Home Appliances,308.73,460,1.3
+P0321,War,Electronics,792.12,156,2.1
+P0322,Class,Sportswear,473.82,30,2.9
+P0323,Plan,Toys,564.51,220,1.5
+P0324,Study,Electronics,724.45,201,4.2
+P0325,Knowledge,Electronics,375.89,401,3.6
+P0326,Simply,Home Appliances,785.29,318,1.3
+P0327,Majority,Toys,515.72,487,2.7
+P0328,Result,Books,807.78,332,2.1
+P0329,Issue,Toys,196.58,296,4.5
+P0330,Us,Books,619.67,406,2.0
+P0331,Wife,Home Appliances,126.31,256,3.6
+P0332,Green,Electronics,924.49,98,4.9
+P0333,Attorney,Books,125.58,21,3.1
+P0334,Guy,Home Appliances,960.55,50,2.3
+P0335,Star,Sportswear,990.57,198,2.7
+P0336,Gas,Books,712.66,33,3.4
+P0337,It,Electronics,338.54,489,1.7
+P0338,Peace,Sportswear,149.07,27,3.9
+P0339,Live,Electronics,268.5,9,4.2
+P0340,Responsibility,Electronics,759.89,388,3.8
+P0341,Produce,Electronics,526.39,233,2.8
+P0342,Billion,Toys,381.68,1,3.0
+P0343,Important,Sportswear,591.5,194,4.8
+P0344,Man,Toys,344.16,93,2.0
+P0345,Woman,Books,21.41,357,4.5
+P0346,Truth,Home Appliances,157.55,49,2.9
+P0347,Require,Sportswear,933.0,61,2.4
+P0348,Type,Home Appliances,187.78,358,4.1
+P0349,Head,Home Appliances,766.83,99,1.7
+P0350,Charge,Electronics,494.07,453,4.9
+P0351,Sister,Home Appliances,29.96,212,1.1
+P0352,Another,Books,691.18,267,1.1
+P0353,Issue,Toys,629.24,331,4.3
+P0354,Century,Toys,546.19,450,2.8
+P0355,Call,Toys,108.27,272,4.0
+P0356,It,Electronics,715.58,413,4.3
+P0357,Final,Home Appliances,594.37,82,2.1
+P0358,Raise,Home Appliances,465.65,188,4.2
+P0359,Determine,Toys,227.35,101,4.7
+P0360,Skill,Toys,422.82,228,3.1
+P0361,Reveal,Electronics,725.99,499,4.3
+P0362,Amount,Sportswear,647.32,83,2.9
+P0363,Manage,Home Appliances,562.66,32,3.7
+P0364,Assume,Toys,156.96,76,2.8
+P0365,Improve,Home Appliances,441.06,182,3.6
+P0366,Table,Sportswear,90.86,449,3.9
+P0367,First,Books,537.36,107,2.6
+P0368,His,Home Appliances,110.77,124,2.9
+P0369,Deep,Home Appliances,275.15,280,4.7
+P0370,Born,Sportswear,481.48,432,2.0
+P0371,Center,Books,64.63,182,3.6
+P0372,Those,Sportswear,469.08,228,2.8
+P0373,Attention,Sportswear,21.58,4,3.2
+P0374,Establish,Home Appliances,190.4,65,4.3
+P0375,Same,Toys,311.97,195,2.6
+P0376,Suffer,Electronics,807.36,123,2.3
+P0377,Decision,Toys,416.17,271,2.0
+P0378,Foreign,Home Appliances,283.95,161,1.1
+P0379,Later,Electronics,431.71,218,1.1
+P0380,Put,Home Appliances,868.06,285,1.8
+P0381,Care,Sportswear,69.93,425,1.7
+P0382,Follow,Sportswear,507.23,58,1.9
+P0383,We,Books,422.91,441,1.3
+P0384,Amount,Sportswear,916.62,375,5.0
+P0385,Alone,Home Appliances,628.04,75,2.8
+P0386,Page,Sportswear,469.94,347,4.4
+P0387,Feeling,Toys,416.54,248,2.1
+P0388,Show,Home Appliances,143.36,460,2.3
+P0389,Finally,Books,443.97,376,4.7
+P0390,Often,Electronics,25.7,102,4.0
+P0391,Tonight,Sportswear,979.53,186,1.1
+P0392,Management,Electronics,647.8,246,1.4
+P0393,Mother,Electronics,550.95,429,3.4
+P0394,After,Home Appliances,92.06,155,4.4
+P0395,Different,Sportswear,728.94,185,1.3
+P0396,Difficult,Electronics,526.75,378,3.6
+P0397,Project,Home Appliances,487.79,232,4.3
+P0398,However,Toys,578.39,172,4.8
+P0399,Form,Sportswear,978.5,460,4.6
+P0400,Vote,Electronics,372.05,207,3.8
+P0401,Development,Sportswear,794.99,27,3.1
+P0402,Song,Toys,384.6,440,3.1
+P0403,Upon,Sportswear,292.48,377,1.1
+P0404,Factor,Books,724.15,40,4.1
+P0405,Fund,Electronics,111.18,29,1.5
+P0406,Public,Sportswear,927.6,384,3.5
+P0407,Room,Toys,105.94,131,3.5
+P0408,Show,Electronics,521.24,398,4.4
+P0409,House,Books,733.6,410,4.4
+P0410,Rest,Toys,87.16,354,4.0
+P0411,Pattern,Home Appliances,896.53,198,4.2
+P0412,Direction,Books,126.55,441,2.0
+P0413,Need,Books,915.96,45,3.9
+P0414,Practice,Electronics,680.29,381,1.4
+P0415,Play,Sportswear,773.37,231,3.3
+P0416,Across,Sportswear,66.0,170,3.3
+P0417,Might,Home Appliances,834.41,395,4.9
+P0418,Capital,Toys,397.92,296,3.9
+P0419,Race,Sportswear,556.17,56,4.0
+P0420,Fall,Toys,94.8,496,4.8
+P0421,Tough,Home Appliances,69.7,122,1.3
+P0422,Point,Sportswear,446.34,470,3.9
+P0423,Strategy,Sportswear,314.43,294,3.3
+P0424,Before,Toys,338.69,439,1.1
+P0425,She,Home Appliances,848.84,303,4.1
+P0426,Speak,Toys,737.99,103,4.5
+P0427,Just,Toys,839.81,255,1.8
+P0428,Very,Books,265.58,230,3.9
+P0429,Church,Toys,293.47,26,2.6
+P0430,Or,Electronics,199.9,108,1.7
+P0431,Area,Toys,135.73,309,2.8
+P0432,Else,Toys,918.43,58,2.7
+P0433,As,Toys,242.16,307,3.4
+P0434,Fire,Sportswear,667.78,33,4.3
+P0435,Admit,Toys,715.67,95,2.0
+P0436,Relate,Sportswear,336.41,184,1.8
+P0437,Production,Toys,181.03,406,1.4
+P0438,Effort,Books,100.33,105,1.2
+P0439,Safe,Books,409.94,27,1.9
+P0440,Common,Electronics,531.41,189,4.4
+P0441,Notice,Electronics,645.36,159,2.1
+P0442,American,Home Appliances,647.71,328,4.6
+P0443,But,Electronics,826.39,68,4.4
+P0444,Base,Electronics,889.68,499,4.2
+P0445,Scientist,Toys,748.27,496,1.3
+P0446,Above,Home Appliances,652.45,184,1.3
+P0447,Home,Books,170.23,238,4.7
+P0448,Now,Books,387.97,55,3.0
+P0449,Real,Electronics,278.75,232,4.2
+P0450,Consumer,Electronics,737.65,222,4.7
+P0451,Force,Sportswear,96.66,399,2.7
+P0452,As,Books,899.81,406,4.8
+P0453,Choose,Books,242.06,212,2.2
+P0454,Defense,Sportswear,858.02,4,4.6
+P0455,Keep,Toys,20.27,165,4.9
+P0456,Think,Books,158.64,343,2.0
+P0457,Manage,Sportswear,885.1,41,2.1
+P0458,Send,Sportswear,296.93,438,1.6
+P0459,Congress,Sportswear,196.74,76,2.4
+P0460,Peace,Electronics,946.34,160,3.7
+P0461,Throw,Home Appliances,133.53,489,2.0
+P0462,Law,Toys,999.95,467,1.3
+P0463,Expert,Books,540.1,402,1.3
+P0464,Thousand,Books,411.08,254,1.0
+P0465,Change,Sportswear,881.33,364,3.3
+P0466,Plan,Books,635.56,130,4.3
+P0467,Break,Electronics,377.85,494,3.4
+P0468,The,Books,366.52,266,3.7
+P0469,Compare,Home Appliances,754.61,429,1.9
+P0470,Thus,Sportswear,313.11,256,3.9
+P0471,Little,Home Appliances,296.92,275,3.8
+P0472,Source,Books,904.53,428,3.9
+P0473,Compare,Toys,155.78,303,5.0
+P0474,Choice,Toys,373.1,48,2.8
+P0475,Audience,Toys,245.12,81,2.2
+P0476,Treatment,Toys,934.68,46,2.3
+P0477,Particular,Electronics,977.11,497,2.3
+P0478,Commercial,Books,431.35,236,4.2
+P0479,Drug,Toys,911.84,302,1.9
+P0480,Test,Sportswear,877.11,278,2.4
+P0481,Theory,Books,865.13,159,3.7
+P0482,Bank,Toys,102.69,247,2.5
+P0483,Lawyer,Home Appliances,708.7,435,1.5
+P0484,Million,Books,704.64,291,4.1
+P0485,It,Sportswear,891.62,42,3.7
+P0486,Fall,Sportswear,394.07,371,1.8
+P0487,Soldier,Home Appliances,133.88,319,3.3
+P0488,School,Home Appliances,89.58,170,2.0
+P0489,Value,Books,745.15,181,1.6
+P0490,Economic,Toys,625.34,275,1.0
+P0491,Almost,Home Appliances,246.13,490,3.4
+P0492,Treatment,Books,704.35,406,1.3
+P0493,Open,Electronics,83.84,301,2.0
+P0494,Wind,Toys,354.97,390,1.8
+P0495,Participant,Toys,279.15,391,4.1
+P0496,Despite,Sportswear,273.07,201,1.6
+P0497,By,Books,88.69,43,1.5
+P0498,Relate,Books,239.69,370,4.1
+P0499,Ever,Home Appliances,19.19,450,3.2
+P0500,Business,Sportswear,15.07,344,2.5
+P0501,Member,Home Appliances,914.41,83,4.0
+P0502,Great,Sportswear,235.16,481,3.7
+P0503,Worker,Home Appliances,976.69,7,2.9
+P0504,Nearly,Toys,700.72,54,1.6
+P0505,Through,Home Appliances,67.96,448,4.8
+P0506,With,Home Appliances,905.62,224,1.5
+P0507,Tax,Home Appliances,132.18,80,2.2
+P0508,Administration,Sportswear,429.55,327,2.0
+P0509,What,Toys,129.07,367,1.5
+P0510,Herself,Electronics,81.47,309,4.2
+P0511,Again,Books,459.41,270,4.6
+P0512,Across,Electronics,774.09,121,3.0
+P0513,Apply,Electronics,728.96,377,1.2
+P0514,Analysis,Electronics,836.26,98,3.5
+P0515,Young,Electronics,456.98,155,2.9
+P0516,World,Electronics,29.12,240,3.9
+P0517,Peace,Electronics,478.79,32,3.2
+P0518,Foot,Electronics,549.19,171,4.9
+P0519,Establish,Books,348.86,372,4.3
+P0520,Beyond,Electronics,161.14,492,5.0
+P0521,Role,Home Appliances,503.52,301,2.8
+P0522,Prevent,Toys,121.65,56,2.2
+P0523,Grow,Sportswear,747.11,93,4.4
+P0524,Focus,Toys,887.32,212,1.6
+P0525,Brother,Sportswear,113.92,199,4.2
+P0526,Necessary,Electronics,273.53,417,4.3
+P0527,True,Electronics,263.73,458,2.7
+P0528,Visit,Sportswear,490.89,44,3.5
+P0529,Certainly,Books,926.94,23,1.5
+P0530,Outside,Toys,350.8,295,4.3
+P0531,Despite,Sportswear,618.12,474,2.2
+P0532,Create,Toys,779.31,187,3.3
+P0533,Finish,Electronics,377.67,450,2.4
+P0534,Discussion,Toys,937.82,340,3.1
+P0535,Picture,Books,64.35,384,4.2
+P0536,Answer,Books,749.16,406,1.5
+P0537,Question,Home Appliances,699.22,412,3.4
+P0538,Other,Home Appliances,606.84,266,4.1
+P0539,Debate,Electronics,363.63,317,4.6
+P0540,Account,Toys,722.41,475,4.0
+P0541,In,Sportswear,244.26,316,1.7
+P0542,But,Electronics,289.29,322,1.2
+P0543,Game,Toys,946.04,86,1.2
+P0544,Stock,Sportswear,554.5,468,4.9
+P0545,Into,Toys,53.35,168,1.1
+P0546,Tough,Toys,161.75,120,4.2
+P0547,Project,Sportswear,92.87,330,2.8
+P0548,Type,Electronics,255.62,472,3.7
+P0549,It,Home Appliances,486.61,363,1.4
+P0550,Process,Toys,931.41,159,4.3
+P0551,Generation,Books,587.4,417,4.2
+P0552,Rather,Sportswear,172.4,275,4.2
+P0553,Year,Toys,46.86,149,3.1
+P0554,Weight,Books,885.7,406,4.9
+P0555,They,Electronics,277.48,244,3.4
+P0556,Build,Toys,388.63,82,2.5
+P0557,Career,Toys,757.16,57,4.3
+P0558,Firm,Toys,201.67,347,4.7
+P0559,Bit,Books,115.44,215,3.1
+P0560,Experience,Home Appliances,561.69,319,3.6
+P0561,Light,Sportswear,263.93,153,3.9
+P0562,Significant,Books,791.89,367,1.7
+P0563,Leg,Home Appliances,214.14,244,1.2
+P0564,Debate,Home Appliances,433.2,434,2.3
+P0565,Tax,Toys,382.78,147,4.8
+P0566,Five,Sportswear,463.51,97,2.7
+P0567,Ago,Toys,740.16,282,2.4
+P0568,Back,Books,549.8,72,4.8
+P0569,It,Toys,361.73,471,1.2
+P0570,Very,Electronics,58.33,253,3.5
+P0571,Sing,Electronics,438.15,125,2.4
+P0572,Per,Books,129.36,182,2.3
+P0573,Travel,Sportswear,623.95,133,1.0
+P0574,Third,Sportswear,751.63,450,2.3
+P0575,Attack,Toys,427.87,353,2.2
+P0576,Such,Sportswear,258.65,94,1.4
+P0577,Public,Electronics,450.0,30,4.4
+P0578,Speech,Electronics,552.5,298,4.1
+P0579,After,Books,173.87,443,3.2
+P0580,Adult,Electronics,740.03,486,2.7
+P0581,Story,Toys,507.42,255,3.5
+P0582,Coach,Electronics,444.28,437,3.2
+P0583,Magazine,Home Appliances,932.47,20,2.3
+P0584,Politics,Toys,431.07,103,1.2
+P0585,Radio,Sportswear,973.0,388,4.1
+P0586,Culture,Electronics,47.25,336,3.8
+P0587,Must,Sportswear,59.41,216,2.5
+P0588,General,Toys,415.65,58,4.3
+P0589,Marriage,Toys,402.98,43,3.0
+P0590,Expert,Books,628.27,221,3.8
+P0591,Foot,Home Appliances,549.26,327,1.3
+P0592,Mrs,Electronics,770.39,304,3.7
+P0593,Us,Home Appliances,873.22,78,1.4
+P0594,Now,Books,945.49,458,2.1
+P0595,Area,Toys,85.05,82,2.0
+P0596,Safe,Home Appliances,379.55,109,3.8
+P0597,Fight,Toys,955.01,183,1.1
+P0598,Reach,Toys,426.98,375,3.2
+P0599,Security,Electronics,512.3,449,3.0
+P0600,Business,Home Appliances,93.07,137,4.6
+P0601,Energy,Toys,805.17,98,1.2
+P0602,Be,Home Appliances,733.52,366,3.6
+P0603,Executive,Electronics,650.74,219,1.9
+P0604,Truth,Toys,82.03,140,2.7
+P0605,Source,Books,591.21,422,3.9
+P0606,When,Sportswear,456.44,330,1.9
+P0607,Right,Sportswear,731.91,34,3.3
+P0608,Option,Books,346.28,23,2.4
+P0609,Read,Electronics,59.92,43,4.7
+P0610,Against,Electronics,826.01,93,4.2
+P0611,Site,Home Appliances,275.68,185,3.1
+P0612,Computer,Sportswear,508.44,262,3.0
+P0613,Woman,Electronics,104.2,31,4.8
+P0614,There,Books,945.34,397,2.7
+P0615,Although,Sportswear,758.63,196,3.1
+P0616,Various,Home Appliances,196.14,339,2.0
+P0617,Quickly,Books,98.77,375,4.1
+P0618,At,Sportswear,188.42,102,4.1
+P0619,Guess,Books,330.31,185,4.2
+P0620,Avoid,Toys,119.06,221,1.5
+P0621,My,Sportswear,68.8,129,4.4
+P0622,Mention,Toys,828.84,323,2.0
+P0623,Police,Books,576.45,72,1.1
+P0624,Land,Electronics,969.95,462,2.9
+P0625,Local,Home Appliances,79.57,197,3.2
+P0626,Financial,Sportswear,201.39,147,4.5
+P0627,Type,Electronics,545.51,496,2.8
+P0628,Note,Books,419.98,302,1.6
+P0629,Team,Books,980.42,7,3.6
+P0630,To,Home Appliances,184.7,103,1.2
+P0631,Face,Books,945.28,208,1.6
+P0632,Four,Sportswear,801.28,272,2.0
+P0633,Piece,Home Appliances,617.31,372,1.1
+P0634,Page,Toys,790.95,404,3.6
+P0635,Large,Home Appliances,585.1,259,4.1
+P0636,Describe,Home Appliances,303.19,79,4.6
+P0637,Necessary,Electronics,248.75,322,4.4
+P0638,So,Electronics,112.43,103,1.9
+P0639,Police,Sportswear,575.19,319,1.8
+P0640,Century,Sportswear,34.58,442,1.2
+P0641,Edge,Toys,198.61,135,3.7
+P0642,Test,Sportswear,114.74,422,3.1
+P0643,Debate,Sportswear,446.32,364,4.0
+P0644,Should,Sportswear,271.21,71,4.3
+P0645,Grow,Electronics,525.86,62,3.2
+P0646,Artist,Sportswear,488.24,381,3.5
+P0647,Tree,Toys,230.82,428,1.8
+P0648,Less,Electronics,595.58,148,4.4
+P0649,Scene,Home Appliances,896.41,418,2.2
+P0650,Find,Sportswear,305.94,439,1.7
+P0651,Remain,Toys,822.94,464,3.3
+P0652,Make,Electronics,320.88,8,3.0
+P0653,Foot,Electronics,244.26,435,4.0
+P0654,Fire,Toys,718.63,146,3.2
+P0655,Gun,Home Appliances,564.07,345,2.6
+P0656,Responsibility,Books,267.64,366,1.7
+P0657,Source,Home Appliances,864.9,434,3.3
+P0658,Assume,Toys,370.88,179,2.9
+P0659,Heavy,Home Appliances,382.4,486,3.5
+P0660,Today,Sportswear,683.83,25,1.1
+P0661,Several,Sportswear,185.54,439,4.1
+P0662,First,Toys,975.95,324,2.8
+P0663,Edge,Toys,884.3,483,2.4
+P0664,Big,Books,906.84,412,4.0
+P0665,Money,Home Appliances,455.49,68,3.5
+P0666,Tonight,Books,70.9,266,3.8
+P0667,Whole,Electronics,220.54,101,1.8
+P0668,Detail,Toys,824.21,315,4.5
+P0669,Threat,Sportswear,704.2,29,2.9
+P0670,Involve,Home Appliances,617.57,51,4.4
+P0671,Your,Books,485.93,44,2.8
+P0672,Market,Toys,785.11,149,4.1
+P0673,So,Toys,995.87,97,4.0
+P0674,Major,Electronics,230.46,368,2.6
+P0675,Blood,Books,710.73,185,1.5
+P0676,Standard,Electronics,268.7,199,2.5
+P0677,Country,Toys,456.84,256,4.1
+P0678,Brother,Home Appliances,185.87,396,2.9
+P0679,Seven,Electronics,198.11,2,3.6
+P0680,Fund,Electronics,761.09,317,1.2
+P0681,Lot,Books,330.05,20,3.0
+P0682,Summer,Sportswear,802.85,264,1.3
+P0683,Which,Toys,848.68,332,2.1
+P0684,Tough,Toys,316.02,378,2.2
+P0685,Worker,Sportswear,590.92,84,3.8
+P0686,Maybe,Home Appliances,560.09,12,1.1
+P0687,Television,Toys,507.73,257,1.4
+P0688,Over,Books,636.41,157,3.5
+P0689,Hear,Books,651.29,105,3.0
+P0690,Sister,Sportswear,758.11,341,3.6
+P0691,Of,Books,866.43,331,3.4
+P0692,Eight,Toys,298.25,165,3.7
+P0693,Worker,Books,822.34,278,4.8
+P0694,Identify,Toys,856.18,241,3.1
+P0695,Over,Sportswear,115.98,156,2.8
+P0696,Realize,Toys,579.6,274,4.1
+P0697,But,Home Appliances,730.37,345,3.8
+P0698,Able,Home Appliances,401.37,463,4.8
+P0699,Like,Electronics,598.48,323,4.3
+P0700,Go,Electronics,482.12,73,2.6
+P0701,But,Electronics,354.75,238,3.1
+P0702,Eye,Toys,32.91,495,2.5
+P0703,Account,Books,445.57,140,2.0
+P0704,Heart,Electronics,286.55,178,2.2
+P0705,Pretty,Home Appliances,253.83,310,1.9
+P0706,Behind,Sportswear,892.2,212,1.1
+P0707,For,Books,622.14,346,4.4
+P0708,Keep,Books,262.95,323,3.4
+P0709,Important,Books,489.77,27,1.4
+P0710,Serve,Books,411.72,50,4.0
+P0711,Draw,Books,725.2,297,4.1
+P0712,Anything,Home Appliances,792.5,47,3.8
+P0713,Alone,Toys,432.01,20,2.2
+P0714,Some,Sportswear,842.37,23,2.4
+P0715,Bar,Home Appliances,157.66,98,4.4
+P0716,Laugh,Books,273.8,367,2.0
+P0717,Hair,Books,608.27,447,3.1
+P0718,Head,Books,412.6,124,2.5
+P0719,Wrong,Sportswear,746.68,393,1.8
+P0720,Among,Toys,117.05,434,2.3
+P0721,One,Sportswear,583.4,428,4.2
+P0722,Guess,Sportswear,342.46,165,1.1
+P0723,Set,Electronics,431.69,5,1.5
+P0724,Also,Sportswear,681.41,282,2.6
+P0725,Especially,Electronics,659.44,442,4.6
+P0726,Even,Home Appliances,476.35,168,4.8
+P0727,Maintain,Toys,840.66,104,4.4
+P0728,Brother,Books,863.41,494,2.6
+P0729,Low,Books,607.99,496,4.6
+P0730,Last,Home Appliances,234.7,250,4.9
+P0731,Office,Books,123.96,162,3.7
+P0732,Site,Toys,902.8,173,4.9
+P0733,Them,Toys,916.84,396,1.7
+P0734,Red,Electronics,559.65,387,1.2
+P0735,Recognize,Electronics,439.37,281,4.8
+P0736,Republican,Toys,499.16,228,1.8
+P0737,Generation,Electronics,405.87,363,4.3
+P0738,Home,Toys,767.3,389,2.2
+P0739,Section,Electronics,48.29,368,2.9
+P0740,Small,Books,326.71,430,3.6
+P0741,War,Sportswear,385.38,244,1.4
+P0742,Pretty,Sportswear,875.09,337,2.9
+P0743,Price,Home Appliances,287.13,218,3.9
+P0744,Economic,Toys,619.32,351,3.2
+P0745,Example,Home Appliances,213.81,295,4.8
+P0746,Detail,Sportswear,865.29,277,4.3
+P0747,Wide,Electronics,448.03,356,2.3
+P0748,Majority,Sportswear,619.44,300,3.1
+P0749,Skill,Electronics,989.39,135,2.1
+P0750,Me,Sportswear,638.69,384,4.4
+P0751,Food,Toys,887.32,452,1.2
+P0752,Region,Electronics,893.03,236,1.4
+P0753,More,Home Appliances,765.18,277,2.5
+P0754,South,Toys,478.28,202,3.2
+P0755,Industry,Books,559.73,251,3.7
+P0756,Performance,Electronics,819.94,171,2.3
+P0757,Near,Toys,37.79,405,3.7
+P0758,None,Home Appliances,880.68,155,1.8
+P0759,Team,Home Appliances,97.44,31,2.3
+P0760,Upon,Toys,273.53,191,1.3
+P0761,Available,Books,391.11,192,4.3
+P0762,Study,Home Appliances,140.02,386,4.0
+P0763,Window,Home Appliances,326.21,64,3.0
+P0764,Either,Books,255.96,141,4.7
+P0765,Score,Electronics,580.76,144,4.7
+P0766,Leave,Sportswear,99.37,228,2.1
+P0767,Different,Electronics,857.46,323,4.2
+P0768,Last,Toys,764.09,34,2.0
+P0769,Way,Home Appliances,655.52,99,1.2
+P0770,Rest,Sportswear,193.43,330,2.8
+P0771,Exactly,Electronics,881.03,251,1.9
+P0772,My,Toys,853.15,13,3.2
+P0773,Fight,Electronics,816.58,310,2.0
+P0774,Professor,Electronics,451.51,207,2.0
+P0775,Up,Books,714.65,372,3.0
+P0776,Direction,Electronics,176.58,83,2.2
+P0777,Southern,Sportswear,846.6,332,1.0
+P0778,Debate,Electronics,812.9,232,1.0
+P0779,Minute,Home Appliances,286.0,187,1.1
+P0780,Office,Home Appliances,990.28,377,4.8
+P0781,Win,Sportswear,764.34,303,2.2
+P0782,Responsibility,Books,228.35,130,5.0
+P0783,Economic,Sportswear,708.8,369,2.0
+P0784,Ready,Home Appliances,855.82,92,1.2
+P0785,Sometimes,Toys,960.15,200,1.9
+P0786,Data,Toys,164.58,33,4.3
+P0787,Him,Toys,637.31,411,3.4
+P0788,May,Electronics,336.43,450,1.5
+P0789,Agreement,Books,424.8,309,1.8
+P0790,Pressure,Sportswear,12.32,413,5.0
+P0791,Live,Toys,441.52,247,1.9
+P0792,Much,Electronics,669.72,206,1.3
+P0793,Short,Electronics,311.41,462,4.4
+P0794,Give,Sportswear,368.68,70,2.7
+P0795,Rather,Electronics,131.38,377,1.7
+P0796,Glass,Electronics,19.7,328,1.1
+P0797,Mean,Electronics,522.68,442,1.1
+P0798,Television,Books,233.87,397,1.9
+P0799,Bad,Home Appliances,991.29,90,4.0
+P0800,Something,Toys,918.68,296,1.7
+P0801,Record,Sportswear,642.86,57,2.9
+P0802,Challenge,Toys,489.09,481,1.2
+P0803,Situation,Electronics,393.09,458,3.0
+P0804,Owner,Home Appliances,711.19,337,1.2
+P0805,Present,Sportswear,849.85,280,4.9
+P0806,Authority,Home Appliances,536.91,354,2.5
+P0807,Evidence,Toys,432.86,184,1.1
+P0808,Learn,Electronics,337.31,322,3.1
+P0809,Peace,Sportswear,497.8,187,1.7
+P0810,Language,Home Appliances,507.07,203,3.6
+P0811,Method,Sportswear,766.91,217,3.9
+P0812,Skin,Sportswear,600.76,361,4.7
+P0813,Sure,Home Appliances,613.89,235,4.5
+P0814,Whatever,Electronics,68.92,392,4.2
+P0815,Speech,Electronics,492.37,479,1.4
+P0816,Pass,Sportswear,988.92,141,1.5
+P0817,Feeling,Toys,633.29,421,3.5
+P0818,Reason,Books,507.89,459,3.8
+P0819,Little,Books,242.39,384,2.1
+P0820,Old,Sportswear,503.1,232,2.8
+P0821,Relate,Books,141.54,275,2.4
+P0822,Fire,Electronics,171.03,184,4.6
+P0823,Apply,Sportswear,339.32,373,1.9
+P0824,Wear,Toys,13.07,426,4.1
+P0825,Lawyer,Books,998.02,83,3.1
+P0826,Another,Home Appliances,840.44,85,3.1
+P0827,Law,Home Appliances,323.51,107,3.5
+P0828,Country,Sportswear,386.18,479,3.6
+P0829,Score,Sportswear,366.66,193,4.2
+P0830,Rule,Toys,372.54,303,1.8
+P0831,Building,Toys,363.19,204,4.9
+P0832,Year,Books,103.59,339,2.9
+P0833,Study,Sportswear,506.19,92,3.6
+P0834,Little,Sportswear,976.57,196,2.6
+P0835,Huge,Electronics,144.29,6,2.4
+P0836,Rate,Sportswear,785.63,288,3.1
+P0837,Institution,Home Appliances,892.89,106,1.8
+P0838,From,Books,68.82,428,2.3
+P0839,Program,Home Appliances,483.44,256,3.8
+P0840,Decide,Toys,802.76,261,4.2
+P0841,Beyond,Sportswear,111.27,359,4.3
+P0842,Poor,Toys,876.7,185,2.8
+P0843,Concern,Electronics,672.23,206,1.4
+P0844,Specific,Electronics,729.85,489,4.7
+P0845,Mr,Sportswear,553.09,159,1.0
+P0846,Also,Electronics,421.19,320,2.2
+P0847,Hundred,Electronics,904.01,45,3.6
+P0848,Industry,Toys,423.96,229,3.8
+P0849,Full,Electronics,15.89,107,4.1
+P0850,Decade,Sportswear,176.6,393,4.5
+P0851,Article,Toys,594.01,165,3.1
+P0852,Strategy,Electronics,488.29,305,4.1
+P0853,Interview,Toys,442.85,321,1.0
+P0854,Live,Electronics,93.02,487,1.3
+P0855,Opportunity,Toys,170.53,1,4.3
+P0856,People,Sportswear,135.49,474,4.0
+P0857,Media,Home Appliances,995.39,434,4.6
+P0858,Clear,Sportswear,479.52,312,3.6
+P0859,And,Home Appliances,795.94,144,4.1
+P0860,Letter,Toys,549.93,144,4.4
+P0861,Concern,Sportswear,403.74,474,2.8
+P0862,Prevent,Electronics,797.33,156,2.2
+P0863,First,Toys,568.13,473,1.4
+P0864,Health,Sportswear,173.95,362,3.6
+P0865,Night,Home Appliances,63.45,288,4.1
+P0866,Successful,Sportswear,922.33,411,3.6
+P0867,Lose,Toys,57.73,101,2.1
+P0868,Week,Sportswear,534.37,286,3.2
+P0869,Year,Sportswear,833.71,301,2.6
+P0870,Since,Electronics,231.01,302,4.9
+P0871,Must,Books,370.14,183,2.7
+P0872,Nation,Home Appliances,454.5,439,2.0
+P0873,Care,Electronics,410.74,119,4.8
+P0874,Clearly,Electronics,570.93,273,3.0
+P0875,Need,Toys,195.74,187,3.5
+P0876,Question,Books,779.71,99,1.5
+P0877,Key,Electronics,503.9,497,3.7
+P0878,Two,Toys,989.59,84,2.3
+P0879,Some,Electronics,74.25,321,1.7
+P0880,Upon,Electronics,83.11,269,1.1
+P0881,Late,Home Appliances,609.77,267,2.0
+P0882,Cause,Home Appliances,191.81,89,4.7
+P0883,Bed,Sportswear,614.01,338,2.8
+P0884,Ok,Sportswear,350.6,47,3.5
+P0885,Position,Sportswear,688.71,472,1.2
+P0886,Class,Books,947.1,328,2.8
+P0887,Care,Toys,606.71,73,4.0
+P0888,Fish,Sportswear,698.23,146,2.9
+P0889,Out,Sportswear,110.19,185,2.9
+P0890,List,Electronics,510.33,182,3.9
+P0891,Situation,Toys,190.64,240,4.1
+P0892,Artist,Electronics,332.78,458,4.6
+P0893,Dog,Toys,590.4,442,4.8
+P0894,Response,Sportswear,600.13,26,2.7
+P0895,Subject,Home Appliances,60.55,185,4.9
+P0896,Can,Books,746.28,347,3.3
+P0897,Debate,Books,226.76,115,3.6
+P0898,Contain,Electronics,947.03,98,4.1
+P0899,Society,Books,200.12,112,3.1
+P0900,Could,Toys,823.53,325,2.6
+P0901,Data,Electronics,101.98,151,4.8
+P0902,Discover,Home Appliances,279.51,183,4.0
+P0903,Difficult,Sportswear,759.64,434,3.2
+P0904,Door,Sportswear,507.06,386,3.5
+P0905,Official,Toys,969.0,272,2.2
+P0906,Win,Books,594.07,289,4.3
+P0907,Thank,Books,231.29,309,1.9
+P0908,Response,Sportswear,649.47,63,2.0
+P0909,Anyone,Toys,633.67,153,4.4
+P0910,Theory,Electronics,424.1,428,1.6
+P0911,Family,Books,633.32,308,2.7
+P0912,His,Electronics,849.43,455,3.6
+P0913,Interview,Home Appliances,78.18,222,3.9
+P0914,Line,Home Appliances,875.76,158,4.7
+P0915,Shoulder,Home Appliances,55.03,440,4.4
+P0916,Quickly,Toys,964.77,119,2.0
+P0917,Very,Sportswear,388.39,316,4.1
+P0918,Another,Sportswear,879.23,73,4.1
+P0919,Program,Home Appliances,775.43,73,2.8
+P0920,Free,Books,788.3,210,2.3
+P0921,Foreign,Toys,637.5,385,3.5
+P0922,Knowledge,Books,430.07,370,4.9
+P0923,Whose,Toys,581.73,402,2.4
+P0924,Five,Sportswear,55.86,341,1.6
+P0925,Individual,Toys,856.39,126,1.1
+P0926,Carry,Electronics,910.2,488,4.8
+P0927,North,Books,202.79,161,4.6
+P0928,Seek,Sportswear,188.22,316,1.7
+P0929,Accept,Books,22.54,471,2.2
+P0930,Education,Electronics,928.23,143,4.5
+P0931,Animal,Books,368.07,262,4.6
+P0932,By,Sportswear,185.57,491,2.4
+P0933,Expert,Home Appliances,43.94,64,1.0
+P0934,Many,Sportswear,748.52,402,3.9
+P0935,Summer,Toys,312.37,90,2.3
+P0936,Natural,Home Appliances,937.77,18,2.8
+P0937,Return,Electronics,506.61,412,1.5
+P0938,Example,Sportswear,401.29,233,2.5
+P0939,Four,Home Appliances,72.59,242,1.4
+P0940,Order,Books,182.17,343,2.4
+P0941,Dog,Toys,798.22,62,4.9
+P0942,Direction,Sportswear,102.7,234,2.6
+P0943,Soon,Electronics,674.33,71,3.8
+P0944,Artist,Books,880.36,59,2.9
+P0945,Meet,Sportswear,658.66,409,3.2
+P0946,Program,Sportswear,271.52,130,4.1
+P0947,Final,Home Appliances,136.37,425,2.9
+P0948,Quality,Home Appliances,458.6,289,2.3
+P0949,Democratic,Home Appliances,698.35,381,2.6
+P0950,Everybody,Home Appliances,424.89,40,2.9
+P0951,Peace,Toys,607.87,171,4.9
+P0952,Detail,Electronics,329.52,435,4.6
+P0953,Fund,Electronics,761.82,406,3.5
+P0954,Where,Sportswear,324.21,232,4.1
+P0955,Yes,Sportswear,664.8,86,4.4
+P0956,Nor,Home Appliances,865.63,391,1.6
+P0957,Statement,Books,940.02,308,1.4
+P0958,War,Electronics,946.63,151,3.3
+P0959,View,Books,701.92,57,4.0
+P0960,Chance,Home Appliances,996.08,13,2.8
+P0961,Leg,Home Appliances,306.77,9,2.1
+P0962,Else,Home Appliances,350.36,142,4.8
+P0963,Me,Toys,238.65,434,3.0
+P0964,Community,Home Appliances,262.77,28,2.1
+P0965,Kitchen,Sportswear,780.07,458,4.2
+P0966,Miss,Electronics,764.39,219,1.6
+P0967,Whatever,Toys,380.54,179,3.5
+P0968,Order,Toys,550.6,441,3.5
+P0969,Series,Sportswear,688.74,267,3.8
+P0970,Create,Books,964.99,46,5.0
+P0971,Prevent,Home Appliances,712.9,207,4.3
+P0972,Usually,Home Appliances,291.48,213,3.9
+P0973,Until,Books,811.38,133,4.7
+P0974,Next,Books,637.2,146,5.0
+P0975,Easy,Toys,853.26,286,2.5
+P0976,My,Sportswear,153.25,338,4.7
+P0977,Figure,Books,407.24,337,3.1
+P0978,Difference,Books,230.04,42,4.2
+P0979,Matter,Books,508.9,204,4.0
+P0980,Debate,Sportswear,429.11,98,4.2
+P0981,Say,Books,832.6,413,3.4
+P0982,Major,Home Appliances,148.27,155,4.0
+P0983,Plant,Toys,615.09,102,3.4
+P0984,Pattern,Sportswear,183.62,459,3.2
+P0985,Score,Electronics,990.03,56,1.2
+P0986,Always,Electronics,457.43,390,4.9
+P0987,Miss,Home Appliances,376.94,438,1.2
+P0988,This,Toys,761.52,43,1.7
+P0989,Rule,Electronics,703.44,150,1.9
+P0990,Two,Toys,250.69,100,1.1
+P0991,Girl,Home Appliances,390.0,143,1.6
+P0992,Appear,Electronics,532.49,176,3.3
+P0993,Fact,Home Appliances,566.77,5,2.2
+P0994,Article,Books,928.59,13,4.8
+P0995,Lawyer,Toys,605.97,158,1.2
+P0996,Likely,Home Appliances,94.11,371,1.3
+P0997,Recent,Sportswear,785.29,326,1.8
+P0998,Blood,Books,36.06,203,3.1
+P0999,Recent,Books,659.51,280,3.2
+P1000,Product,Sportswear,668.84,489,3.8
